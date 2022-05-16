@@ -1,7 +1,7 @@
 # Hi there, I'm Erwin - aka [Erwin14k][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJoM8gUPANCyye6l-1mUR0A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Erwin_14k?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Erwin_14k&screen_name=Erwin_14k)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Erwin_14k?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=Erwin_14k)
 
 
 ## I'm a Student, Developer, and Teacher!!
@@ -51,6 +51,11 @@
 <br />
 
 ---
+![Erwin14k's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin14k&&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin14k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [twitter]: https://twitter.com/Erwin_14k
 [youtube]: https://www.youtube.com/channel/UCJoM8gUPANCyye6l-1mUR0A
 [instagram]: https://instagram.com/Erwin14k
