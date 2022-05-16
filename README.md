@@ -1,7 +1,7 @@
 # Hi there, I'm Erwin - aka [Erwin14k][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJoM8gUPANCyye6l-1mUR0A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Erwin_14k?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Erwin_14k&screen_name=Erwin_14k)
 
 
 ## I'm a Student, Developer, and Teacher!!
