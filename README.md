@@ -8,7 +8,7 @@
 
 
 - ✔ I’m currently learning everything 🤣
-- 😎 2022 Goals: Learn more about blockchain.
+- 😎 2023 Goals: Learn more about Angular and Golang.
 - ⚡ Fun fact: I love to play soccer and videogames.
 
 
