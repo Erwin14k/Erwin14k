@@ -1,4 +1,4 @@
-[![Erwin14k](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)]
+![Erwin14k](https://elukelele.com/wp-content/uploads/2022/09/730096-cobra-kai-poster-wall-decor-wall-print-cobra-kai-wallpaper-home-decoration-wall-accessories-handmade-products-1.jpg)
 <h1 align="center">Hi There 👋, I'm Erwin Vásquez</h1>
 <h3 align="center">A passionate backend developer from Guatemala</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif")>
